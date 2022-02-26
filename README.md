@@ -1,3 +1,3 @@
-# layout_template_bem
+# Template for BEM
 
-<h1>This repository will help you quickly start layout using the BEM methodology</h1>
+<h3>This repository will help you quickly start layout using the BEM methodology</h3>
